@@ -1,0 +1,7 @@
+This is first class of git.
+Git is a version control system, which use in track and management of code.
+There is 2 types of version control.
+1. CVCS (Centeralized version control system)
+2. DVCS (Distributes version control system)
+Git is the example of DVCS.
+
