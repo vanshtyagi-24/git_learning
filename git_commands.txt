@@ -1,0 +1,16 @@
+mkdir <dir_name>    Create a new directory
+cd <dir_name>       Switch to the directory which we created
+git init            Initialized git, now this directory is your workspace
+git config --global user.email 'email which you use for your github account'
+git config --global user.name 'user name of your github account'
+git config --list       To verify is your account is added in git global config
+touch <file_name>   create a new file
+vi <file_name>    edit the file 
+git add <file_name>  add that file to staging area
+git commit -m "commitee message" 
+git remote add origin "URL of github repositry"     make sure repo is as same as you created the direcotry in first step.
+git push origin master     to send your file on github server
+
+git pull origin master      In case someone edit the file from the github console then you need to first sync your local repo with the updated file.
+
+
