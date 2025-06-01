@@ -12,3 +12,7 @@ A.) In CVCS, if you are not connected to internet then you can not work with it,
 B.) In CVCS, there is no local repo present, but in DVCS, local repo exists.
 
 C.) In CVCS, we can not do offline work, but in DVCS we can work offline. 
+
+D.) In CVCS branching is not supported, but DVCS, supports the branching.
+
+E.) SVN is the example of CVCS and Git is the example of DVCS.
