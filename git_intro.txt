@@ -1,13 +1,13 @@
 This is first class of git.
 Git is a version control system, which use in track and management of code.
 There is 2 types of version control.
-1. CVCS (Centeralized version control system)
+1. CVCS (Centralized version control system)
 2. DVCS (Distributes version control system)
 Git is the example of DVCS.
 
-Now, we will see some of the diffrences between CVCS and DVCS.
+Now, we will see some of the differences between CVCS and DVCS.
 
-A.) In CVCS, if you are not connected to internet then you can not work with it, but in DVCS you can still work in case of internet faliure.
+A.) In CVCS, if you are not connected to internet then you can not work with it, but in DVCS you can still work in case of internet failure.
 
 B.) In CVCS, there is no local repo present, but in DVCS, local repo exists.
 
