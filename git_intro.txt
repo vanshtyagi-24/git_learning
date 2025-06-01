@@ -16,3 +16,13 @@ C.) In CVCS, we can not do offline work, but in DVCS we can work offline.
 D.) In CVCS branching is not supported, but DVCS, supports the branching.
 
 E.) SVN is the example of CVCS and Git is the example of DVCS.
+
+
+There are 3 components in Git Architecture
+
+i) Workspace: Workspace is nothing but, the place/repo/directory where the developers write their code. Now any directory or folder where the developer is doing their work will not be considered as a workspace until and unless git is not initialized in that particular folder or directory. Use "git init" to make the directory workspace.
+
+ii) Staging area: After executing git add <file> command, that file goes to the staging area. The file gets push to the GitHub server from here. No changes can be perform once we add the file in staging area, but one thing what we can do is, if there is multiple files and we do not want to push all of them on GitHub, we can select with our choice that what files we want to push.
+
+
+iii) Local repo: 
